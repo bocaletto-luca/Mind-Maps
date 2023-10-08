@@ -1,6 +1,7 @@
 # Mind Maps Free
 
 "Mind Maps Free" is a software application for creating, managing, and organizing mind maps. This tool allows users to create customized mind maps, organize ideas and concepts hierarchically, and navigate through information intuitively.
+![Screenshot 2023-10-08 161041](https://github.com/elektronoide/Mind-Maps-Free/assets/134635227/4225b53a-9dcd-47ca-98e8-9bd441583e4f)
 
 ## Key Features
 
