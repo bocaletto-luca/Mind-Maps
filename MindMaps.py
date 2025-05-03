@@ -1,4 +1,4 @@
-# Name Software: Mind Maps Free
+# Name Software: Mind Maps Basic
 # Author: Bocaletto Luca
 
 # Importazione delle librerie necessarie
